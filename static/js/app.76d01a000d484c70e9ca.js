@@ -35,7 +35,7 @@ webpackJsonp([1, 2], {
                         o = Math.abs(t - r) / 864e5;
                     return o
                 };
-            document.title += g((new Date).getFullYear() + "-" + ((new Date).getMonth() + 1) + "-" + (new Date).getDate(), "2016-09-15") + 1 + "天",
+            document.title += g((new Date).getFullYear() + "-" + ((new Date).getMonth() + 1) + "-" + (new Date).getDate(), "2018-12-02") + 1 + "天",
                 e.
                     default = {
                     name: "app",
